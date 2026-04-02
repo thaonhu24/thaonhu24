@@ -37,3 +37,19 @@ I am a **Frontend Developer** with over **3 years of experience** building scala
 - **Logistics Management Platform:** Built core features for dashboards with interactive map drawing (Leaflet, VietMap API).
 - **Logical Driver App:** Developed mobile features for delivery and salary tracking using React Native.
 - **NFT Marketplace:** Integrated blockchain for minting, trading, and staking NFTs.
+
+### :eyes: &nbsp; Visitor's count
+
+![](https://komarev.com/ghpvc/?username=thaonhu24&color=green&style=for-the-badge)&nbsp;
+<br/>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/thaonhu24">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thaonhu24&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thaonhu24)](https://git.io/streak-stats)
+
+</p>
