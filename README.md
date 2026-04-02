@@ -6,11 +6,11 @@
 
 ### 🌟 About Me
 
-I am a **Frontend Developer** with over **3 years of experience** building scalable web applications. I specialize in:
+I’m a **Frontend Engineer** with over **3 years of experience** working mainly with **Vue.js** and **React**.
 
-- 🏗️ **Frontend Architecture:** Micro Frontends, Module Federation.
-- 🎨 **UI/UX Design:** Crafting reusable component systems and interactive dashboards.
-- ⛓️ **Web3 Integration:** Building NFT Marketplaces and Lending Platforms.
+🎨 Beyond building UI, I focus on how code is structured — writing **clean, maintainable, and scalable code**. I pay close attention to data flow and component design to ensure applications remain robust as they grow.
+
+🚀 Currently, I’m focusing on deepening my expertise in **performance optimization**, specifically in handling and rendering **large-scale data efficiently**.
 
 ---
 
